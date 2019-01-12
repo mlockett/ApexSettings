@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>For name/value combos. Categories for namespacing</description>
+    <label>Settings</label>
+    <pluralLabel>Settings</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
