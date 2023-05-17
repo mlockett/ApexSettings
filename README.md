@@ -11,8 +11,6 @@ settings are not duplicated.
 The user can also specify a category if desired. This allows logical groupings of related settings, and effectively 
 allows name-spacing.
 
-[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
-
 ## Usage
 1. Create a new entry in Settings__mdt; specify if the setting is only for sandboxes, only for prod, or applies to both.
 2. Access the setting in code as desired:  
